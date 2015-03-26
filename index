@@ -1,0 +1,15 @@
+Tree-Basics
+===================
+
+This directory will contain some basic implementation of trees,
+their advantages, usages, time complexity.
+
+==================
+
+1. BST:
+
+About: You can view it as an dynamic sorted array. It is a binary tree with the assumption
+that anything less than parent goes to the left side and anything greater than the
+parent goes to the right side. Insertion is easier while deletion is bit tricky. we
+will implement basic BST, insertion, deletion, searches, pred, successor, etc.
+ 
